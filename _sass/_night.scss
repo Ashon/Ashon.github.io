@@ -21,6 +21,11 @@
     border-bottom-color: #333;
   }
 
+  .search-input {
+    color: #fff;
+    background: #333
+  }
+
   @media screen and (max-width: 600px) {
     .site-nav {
       background: #222;
